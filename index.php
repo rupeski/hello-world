@@ -6,8 +6,6 @@
 </head>
 
 <body>
-<script type="text/javascript">
-window.location.replace("index.php");
-</script>
+<?php echo '<p>Hello World</p>'; ?> 
 </body>
 </html>
